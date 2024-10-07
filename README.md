@@ -38,6 +38,6 @@ This project is a comprehensive demonstration of cloud application development a
 
 ###  🛠️ Code 
 For more specific implementation details, visit the repos : 
-- Application and REST APIs : https://github.com/saichebcloud/webapp
-- Infrastructure: https://github.com/saichebcloud/tf-gcp-infra
-- Cloud Function: https://github.com/saichebcloud/serverless
+- Application and REST APIs : https://github.com/Cloud-Native-Project/webapp
+- Infrastructure: https://github.com/Cloud-Native-Project/tf-gcp-infra
+- Cloud Function: https://github.com/Cloud-Native-Project/serverless
