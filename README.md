@@ -4,7 +4,6 @@
 
 ### Architecture Diagram
 
-![test drawio](https://github.com/chebrolusai/DocBook/assets/144749543/65d55fcf-fbfa-4c21-b471-f563c67a2bc6)
 ![test drawio](https://github.com/Sandesh3703/DocBook/blob/f18922707d422b2b4169a6785ea8334e39b08a5f/client/public/333241066-65d55fcf-fbfa-4c21-b471-f563c67a2bc6.png)
 
 ### 🚀 Project Overview 
